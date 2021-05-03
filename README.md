@@ -1,9 +1,9 @@
-# IflixChecker
+# IFLIX ACCOUNT CHECKER
 The tool used to check valid accounts on the [Iflix](https://www.iflix.com/)
  streaming site with a weakness for every 5 accounts this tool will delay for 25 seconds, please understand.
 
 
-## Donate
+## DONATE
 
 | Currency | Wallet Address |
 |-----|------------------------------------|
@@ -12,5 +12,5 @@ The tool used to check valid accounts on the [Iflix](https://www.iflix.com/)
 |DOGE | DGVyJv3ifAHToMjiP9SExSriAbMJHn7qoG |
 
 
-## Disclaimer
+## DISCLAIMER
 I as the author expressly rejects responsibility for the bad effects caused by users when using this tool, because this tool was created for educational purposes only.
